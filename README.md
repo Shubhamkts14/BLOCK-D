@@ -20,11 +20,9 @@
   https://drive.google.com/file/d/1E7igH33JB9dfD29zdzHtTpr1vlabqmNM/view
 
 # Inspiration:
-    - http://www.spaceappindia.org
-    - https://2018.spaceappschallenge.org/
-    - https://twitter.com/spaceapps?lang=en
+    - https://web3athon.hackerearth.com/
 
-[Build at pre-hackathon: https://web3athon.hackerearth.com/]
+[Build at hackathon: https://web3athon.hackerearth.com/]
 
 # What it does:
 * Used ML algorithm along with NASA data to predict if a person is safe or not 
@@ -36,8 +34,7 @@
 * Helps to settle Insurance claims in case of Disaster.
 
 # STEPS to Install / Setup
-1) Clone the repositories https://github.com/KushalGH/blockchain_disastermanagement using following command
-git clone https://github.com/KushalGH/blockchain_disastermanagement
+1) Clone the repositories.
 2) do run "npm install" command to ensure node packages are up-to-date & in sync
 3) Ensure you have "Ganache" & It is running status
 4) Ensure you have "MetaMask" extensions added into chrome & enabled custom RPC to sync the accounts with Ganache
