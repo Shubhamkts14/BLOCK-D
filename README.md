@@ -11,10 +11,10 @@
 * ABHINAY PRAKASH REDDY
 
 # GitHub Page
-  https://github.com/shu
+  https://github.com/Shubhamkts14/BLOCK-D
  
 # Youtube Link for Video Demonstration
-  https://www.youtube.com/watch?v=wUYhxBvqYy8
+  https://www.youtube.com/watch?v=6XGEWrioH-c
 
 # PowerPoint Presentation
   https://drive.google.com/file/d/1E7igH33JB9dfD29zdzHtTpr1vlabqmNM/view
